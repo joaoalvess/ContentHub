@@ -1,0 +1,12 @@
+.DS_Store
+
+# Local tool state
+.claude/
+
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+
+# Build artifacts
+build/
+DerivedData/
